@@ -5,7 +5,7 @@ github link: https://github.com/kennedy-mukabi/IBL_WAVE_CAFE
 email: kenkingmukabi@gmail.com
 project Title : cafe order collection system 
 
-![alt text](https://github.com/kennedy-mukabi/Health_Information_system/blob/main/dashboard.png?raw=true)
+![alt text](https://github.com/kennedy-mukabi/IBL_WAVE_CAFE/blob/main/Screenshot%20at%202021-12-31%2018-44-47.png?raw=true)
 
 objective: 
 To automate Order collection and delivery of drinks to minimize on human error resulting from staff collectiong the orders , and to fasten the process of order collection at the cafe
